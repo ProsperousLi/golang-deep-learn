@@ -5,4 +5,4 @@
 [ubuntu部署gitlab](https://blog.csdn.net/qq_34382962/article/details/111673754)
 
 1. 部署完成后，创建一个项目，例如helloWorld
-[!image]()
+[!image](https://github.com/ProsperousLi/golang-deep-learn/blob/main/CIDI/pictures/gitlabProject.png)
