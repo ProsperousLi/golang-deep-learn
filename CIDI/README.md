@@ -8,5 +8,5 @@
 ![image](https://github.com/ProsperousLi/golang-deep-learn/blob/main/CIDI/pictures/gitlabProject.png)
 
 2. centos7 部署
-   [部署参考](https://blog.csdn.net/weixin_43948057/article/details/105439985)
+   [部署参考](https://blog.csdn.net/weixin_43948057/article/details/105439985)  
 ![image](https://github.com/ProsperousLi/golang-deep-learn/blob/main/CIDI/pictures/gitlab-centos.png)
