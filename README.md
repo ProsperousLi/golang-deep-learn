@@ -2,7 +2,7 @@
 # golang-deep-learn
 加深学习golang的工具和一些编程技巧
 
-####[ 置顶：CIDI 从零开始](置顶：CIDI 从零开始)
+####[ 置顶：CIDI 从零开始](#置顶：CIDI 从零开始)
 
 详情见项目 [CIDI目录](https://github.com/ProsperousLi/golang-deep-learn/tree/main/CIDI)
 
