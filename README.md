@@ -59,3 +59,5 @@
         b.WriteString(xxxx)
 
 #### map原理
+    
+[源码解析](https://github.com/ProsperousLi/golang-deep-learn/blob/main/map/map.go)
